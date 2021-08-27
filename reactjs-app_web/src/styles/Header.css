@@ -1,0 +1,22 @@
+.theme-dark {
+    --background: #4B5563;
+    --header: #1F2937;
+}
+
+.theme-light {
+    --background: #FFFFFF;
+    --header: #60A5FA;
+}
+
+.headerTheme {
+    width: 100%;
+    background: var(--header);
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+.headerTitle {
+    text-align: center;
+}
